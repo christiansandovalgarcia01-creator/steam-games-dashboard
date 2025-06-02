@@ -111,3 +111,35 @@ Películas mejor valoradas en IMDB, con datos como duración, recaudación y gé
   - Línea promedio de rating por año
 
 ---
+
+
+
+## 📁 Estructura mínima del proyecto
+
+Cada equipo o estudiante debe mantener esta estructura de archivos para asegurar orden y facilidad de despliegue:
+
+```
+my_project/
+├── app.py                  # Script principal de Streamlit
+├── requirements.txt        # Lista de paquetes necesarios (mínimo: streamlit, pandas, plotly-express)
+├── README.md               # Descripción del proyecto
+├── <dataset>.csv           # Archivo CSV con el conjunto de datos
+├── notebooks/
+│   └── EDA.ipynb           # Análisis exploratorio con Jupyter Notebook
+```
+
+### 📌 Notas importantes:
+
+* El nombre del CSV puede variar (`bikes.csv`, `steam_games.csv`, `imdb_movies.csv`), pero debe estar en la raíz del proyecto.
+* El archivo `requirements.txt` debe contener al menos:
+  ```
+  pandas
+  plotly-express
+  streamlit
+  ```
+* El archivo `EDA.ipynb` debe contener gráficos y primeras impresiones sobre los datos.
+* `README.md` debe incluir:
+  - Descripción del dataset
+  - Instrucciones para ejecutar la app
+  - URL del despliegue (una vez publicado en Render)
+
