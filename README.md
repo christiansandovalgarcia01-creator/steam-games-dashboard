@@ -13,6 +13,17 @@ Deberán:
 
 El trabajo se evaluará por la correcta estructura del proyecto, la funcionalidad del dashboard y la colaboración en equipo. 🚀
 
+El repo incluye un ejemplo que puedes usar de referencia:
+
+```bash
+
+streamlit run movie_app.py
+
+```
+
+![Ejemplo en render](https://sp7-colaborative-project.onrender.com/)
+
+
 
 ### 📌 Notas importantes:
 
