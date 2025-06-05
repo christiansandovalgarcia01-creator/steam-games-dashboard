@@ -30,14 +30,6 @@ El trabajo se evaluará por la correcta estructura del proyecto, la funcionalida
   - URL del despliegue (una vez publicado en Render)
 
 
-```markdown
-🚀 *¡Vamos a crear una Mascota Virtual desde la terminal!* 🐶🐱
-
-En este ejercicio vas a practicar tres habilidades esenciales en Python:
-
-* Crear clases con atributos y métodos propios 🧱
-* Ejecutar scripts desde la línea de comandos 🖥️
-* Usar `argparse` para personalizar el comportamiento del programa con parámetros CLI ⚙️
 
 ---
 
