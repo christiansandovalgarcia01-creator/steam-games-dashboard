@@ -31,7 +31,7 @@ streamlit run movie_app.py
 * El archivo `requirements.txt` debe contener al menos:
   ```
   pandas
-  plotly-express
+  plotly
   streamlit
   ```
 * El archivo `EDA.ipynb` debe contener gráficos y primeras impresiones sobre los datos.
