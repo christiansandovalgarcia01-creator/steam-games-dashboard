@@ -24,9 +24,11 @@ class Calculator:
         else:
             print(f"🚧 Operation '{operation}' not implemented yet.")
 
-    #def substract(a,b)
-    #def multiply(a,b)
-    #def divide(a,b)
+    #def substract(self,a,b)
+    #def multiply(self,a,b)
+    #def divide(self,a,b)
+    ## Opcional
+    #def show_memory(self)
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Mini Calculator CLI")

@@ -9,9 +9,9 @@ Deberán:
 * Clonar el repositorio base.
 * Realizar el EDA inicial en Jupyter Notebook.
 * Crear una aplicación con al menos un filtro y una visualización interactiva.
-* Confirmar los cambios en GitHub. (pueden crear una rama local o subirlo algún repositorio propio)
+* Cargar el repositorio en GitHub. 
 
-El trabajo se evaluará por la correcta estructura del proyecto, la funcionalidad del dashboard y la colaboración en equipo. 🚀
+
 
 El repo incluye un ejemplo que puedes usar de referencia:
 
@@ -60,6 +60,8 @@ A partir del siguiente código base, deberás completar los métodos faltantes e
 2. Completar la lógica dentro del método `operate()` para que se ejecuten correctamente las nuevas operaciones según el argumento `--operation`.
 
 3. (Opcional) Crear un nuevo método llamado `show_memory()` que imprima el último resultado guardado en el atributo `memory`.
+
+4. Cargar el repositorio en GitHub
 
 ---
 
