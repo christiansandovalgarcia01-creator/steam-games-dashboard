@@ -1,7 +1,7 @@
-# 📊 Proyectos colaborativos  Sprint 7
+# 📊  Sprint 7 Herramientas para desarrollo de software
 
 
-## 🎯 Proyecto colaborativo: Dashboard con Streamlit
+## 🎯 Actividad 1: Diseño y despliegue de un dashboard con Streamlit y Render
 
 Este proyecto tiene como objetivo que los estudiantes trabajen en equipo para construir y desplegar una aplicación web interactiva utilizando **Streamlit**, a partir del análisis exploratorio de un conjunto de datos. Cada equipo podrá elegir entre tres datasets disponibles: uso de bicicletas, juegos de Steam o películas de IMDB.  
 
@@ -44,7 +44,7 @@ streamlit run movie_app.py
 
 ---
 
-## 🐍 Ejercicio: Tu primera calculadora desde consola
+## 🐍 Actividad 2: Diseña una calculadora
 
 En este ejercicio trabajarás con clases en Python y el módulo `argparse` para construir una calculadora simple que puedas usar desde la terminal.
 
@@ -90,4 +90,3 @@ python calculator.py --operation divide --numbers 10 0
 
 > ✅ ¡Usa `--verbose` para ver mensajes detallados!
 > ✅ Recuerda que puedes usar `argparse` para recibir argumentos desde la línea de comandos.
-
