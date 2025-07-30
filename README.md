@@ -67,21 +67,21 @@ A partir del siguiente código base, deberás completar los métodos faltantes e
 
 ```bash
 # Suma simple
-python calculator.py --operation add --numbers 5 3
+python calculadora.py --operation add --numbers 5 3
 ```
 
 > 8.0
 
 ```bash
 # Multiplicación en modo verbose
-python calculator.py --operation multiply --numbers 2 4 --verbose
+python calculadora.py --operation multiply --numbers 2 4 --verbose
 ```
 
 > 🧮 Multiplying 2.0 * 4.0 = 8.0
 
 ```bash
 # División por cero
-python calculator.py --operation divide --numbers 10 0
+python calculadora.py --operation divide --numbers 10 0
 ```
 
 > ❌ Error: No se puede dividir entre cero.
